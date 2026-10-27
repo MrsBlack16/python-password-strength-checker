@@ -8,6 +8,8 @@ The Password Strength Checker analyzes a password based on its length and charac
 
 This project was developed to practise Python functions, conditional statements, modules, string handling, and user input.
 
+---------------------------------------------------------------------------------------
+
 ✨ Features
 
 Checks whether a password contains at least 8 characters.
@@ -20,6 +22,7 @@ Provides feedback and suggestions for improvement.
 
 Accepts interactive user input in the terminal.
 
+-----------------------------------------------------------------------------------------
 🛠️ Technologies Used
 
 Python 3.14
@@ -28,6 +31,7 @@ PyCharm
 
 Python standard library (string)
 
+-------------------------------------------------------------------------------------------
 🚀 How to Run
 
 Clone or download this repository.
@@ -40,30 +44,35 @@ Run main.py.
 
 Enter a fictional test password when prompted.
 
+---------------------------------------------------------------------------------------------
 💻 Example
 
 Enter your password: helloWorld123
 Good: Consider adding a special character.
 
 The exact output depends on the password and the project's evaluation rules.
-
+----------------------------------------------------------------------------------------------
 💻 Screenshots
 
  1. **Weak Password**
 
 Demonstrates how the program identifies a password that does not meet the minimum length requirement.
+![Weak Password Test](weak-password-test.png)
 
 
 2. **Moderate Password**
 
 Demonstrates how the program identifies missing character types and suggests improvements.
+![Moderate Password Test](moderate-password-test.png)
 
 
  3. **Strong Password**
 
 Demonstrates how the program recognizes a password that passes its character-variety checks.
+![Strong Password Test](strong-password-test.png)
 
 
+---------------------------------------------------------------------------------------------
 
 📚 What I Learned
 
@@ -79,11 +88,14 @@ Collecting user input
 
 Testing and debugging a Python program
 
+---------------------------------------------------------------------------------------------
 ⚠️ Limitations
 
 This project uses simple rules for educational purposes. Its labels are not a guarantee of password security. Password length, uniqueness, predictability, and resistance to guessing also matter.
 
 Do not enter real or sensitive passwords into this learning tool.
+
+---------------------------------------------------------------------------------------------
 
 🔮 Future Improvements
 
@@ -95,6 +107,7 @@ Add clearer input validation and error handling.
 
 Create a graphical user interface.
 
+----------------------------------------------------------------------------------------------
 👩‍💻 Author
 
 Emeraude Mputu Muhindo
