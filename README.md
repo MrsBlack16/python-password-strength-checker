@@ -47,6 +47,24 @@ Good: Consider adding a special character.
 
 The exact output depends on the password and the project's evaluation rules.
 
+💻 Screenshots
+
+ 1. **Weak Password**
+
+Demonstrates how the program identifies a password that does not meet the minimum length requirement.
+
+
+2. **Moderate Password**
+
+Demonstrates how the program identifies missing character types and suggests improvements.
+
+
+ 3. **Strong Password**
+
+Demonstrates how the program recognizes a password that passes its character-variety checks.
+
+
+
 📚 What I Learned
 
 Defining and calling Python functions
